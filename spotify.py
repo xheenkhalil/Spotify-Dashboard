@@ -5,8 +5,8 @@ from retry import retry
 import requests.exceptions
 
 # Spotify API credentials
-client_id = 'ae6ac4690e104864ab71b02d06a54563'
-client_secret = '71277adf953747d880a875b5bb79598f'
+client_id = 'Your client Id'
+client_secret = 'Your key'
 
 # Dataset
 file_path = 'spotify_2023.csv'
