@@ -1,4 +1,3 @@
-```markdown
 # Spotify Dashboard 🎵📊
 
 This project is a **Spotify Data Analytics Dashboard** built in **Power BI**.  
@@ -18,8 +17,8 @@ It provides insights into Spotify’s datasets, highlighting trends in songs, ar
 ---
 
 ## 📂 Project Structure
-```
-```
+
+````
 Spotify-Dashboard/
 │
 ├── Spotify All Res/            # All resources
@@ -37,6 +36,8 @@ Spotify-Dashboard/
 └── README.md                   # Project documentation
 
 ````
+
+
 
 ---
 
@@ -69,7 +70,8 @@ git clone https://github.com/xheenkhalil/Spotify-Dashboard.git
 
 ## 📸 Preview
 
-![Spotify Dashboard Screenshot](Spotify%20All%20Res/Picture1.png)
+![Spotify Dashboard Screenshot](https://raw.githubusercontent.com/xheenkhalil/Spotify-Dashboard/main/102.png)
+
 
 ---
 
@@ -83,9 +85,10 @@ Feel free to fork and adapt it — but please give credit if you use parts of it
 ## ✨ Author
 
 **Xheen Khalil**
-📧 \engrzyfer@gmail.com
-🔗 \linkedin.com/in/moses-thomas-61195434a
 
-````
+## 📫 Connect With Me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](linkedin.com/in/moses-thomas-61195434a)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:engrzyfer@gmail.com)
 
 
