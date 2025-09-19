@@ -19,7 +19,7 @@ It provides insights into Spotify’s datasets, highlighting trends in songs, ar
 
 ## 📂 Project Structure
 ```
-
+```
 Spotify-Dashboard/
 │
 ├── Spotify All Res/            # All resources
